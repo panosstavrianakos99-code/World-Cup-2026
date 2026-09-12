@@ -69,6 +69,7 @@ This project ranks players within their position (GK, DEF, MID, FWD) by combinin
 ## Known Issues
 
 **Player Photos**
+
 Some photos in the Power BI dashboard may not match players due to player ID mismatches between the source data and Sofascore API. The concept is sound, but the data integration needs refinement. The analytics and statistics are accurate—photos are decorative only.
 
 ---
